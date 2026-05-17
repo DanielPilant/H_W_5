@@ -1,0 +1,37 @@
+# ============================================================
+# Heavy datasets and trained models
+# (delivered via external links in README.md, not via git)
+# ============================================================
+emails_master.csv
+*.pkl
+
+# ============================================================
+# Raw email corpus - extracted SpamAssassin archives
+# (thousands of individual email files - infeasible to track)
+# ============================================================
+berkeley_data/
+
+# ============================================================
+# Kafka / Zookeeper local broker runtime data
+# ============================================================
+kafka-logs/
+*kafka-logs*/
+zookeeper-data/
+zookeeper-logs/
+logs/
+
+# ============================================================
+# Python caches and virtual environments
+# ============================================================
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ============================================================
+# IDE / editor / tool metadata
+# ============================================================
+.vscode/
+.idea/
+.claude/
