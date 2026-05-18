@@ -1,4 +1,4 @@
-# [Your ID] Daniel Elchanan Pilant - Student No: [Your Student Number]
+# 214631426 Daniel Elchanan Pilant 
 # team: SpamFilter-Dev
 # date: 2026-05-17
 
