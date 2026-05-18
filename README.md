@@ -122,7 +122,7 @@ python generate_report.py
 
 | קובץ | מקור | תיאור |
 | :--- | :--- | :--- |
-| `emails_master.csv`     | integrate.py        | 12,949 שורות x 60 עמודות - הקלט המאוחד |
+| `emails_master.csv`     | integrate.py        | 20,504 שורות x 60 עמודות - הקלט המאוחד |
 | `model_logistic.pkl`    | train_models.py     | LogisticRegression מאומן ומשומר |
 | `model_svm.pkl`         | train_models.py     | SVC(rbf) מאומן ומשומר |
 | `model_rf.pkl`          | train_models.py     | RandomForest מאומן ומשומר |
